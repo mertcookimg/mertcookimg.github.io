@@ -1,0 +1,102 @@
+baseURL = "https://mertcookimg.github.io/"
+languageCode = "en"
+title = "Masato Kobayashi | 小林　聖人"
+theme = "hugo-initio"
+
+[params]
+    name = "Masato Kobayashi | 小林　聖人"
+    description = "Academic Researcher"
+    # email = ""
+    # phone = ""
+    # address = ""
+    year = 2022
+    avatar = "images/avatar.jpg"
+    avatarclass = "circle"
+    background = ""
+    # banner = "images/bg_head.jpg"
+    # favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+    author = "Sergey Pozhilov (GetTemplate.com)"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = true
+    showClients = true
+
+    showFooterContact = true
+    showFooterFollowMe = true
+    showFooterTextWidget = true
+    showFooterFormWidget = true
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "about me"
+    url = "/about_me/"
+    weight = 2
+[[menu.main]]
+    name = "research"
+    url = "/research/"
+    weight = 3
+[[menu.main]]
+    name = "publication"
+    url = "/publication/"
+    weight = 4
+[[menu.main]]
+    name = "link"
+    url = "/link/"
+    weight = 5
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+# [params.sharethis]
+#     property = "123456789012345678901234"
+#     custom = true
+
+# [params.google.analytics]
+#     trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "researchmap"
+	url = "https://researchmap.jp/kobayashi.masato"
+    icon = "fas fa-user-circle"
+    # <i class="fa-solid fa-robot"></i>
+    # <font-awesome-icon icon="fa-light fa-robot-astromech" />
+    footer = true
+    sharethis = true
+    network = "researchmap"
+[[params.social]]
+	title = "google-scholar"
+	url = "https://scholar.google.co.jp/citations?user=U5eIHD8AAAAJ&hl=ja&oi=sra"
+    icon = "fas fa-paw"
+    # <i class="fa-solid fa-robot"></i>
+    # <font-awesome-icon icon="fa-light fa-robot-astromech" />
+    footer = true
+    sharethis = true
+    network = "google-scholar"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/robotmkb"
+    icon = "fab fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/mertcookimg"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "171w951w@gsuite.kobe-u.ac.jp'"
+    icon = "fas fa-envelope-square"
+    footer = true
+    sharethis = false
+    network = "email"
+
