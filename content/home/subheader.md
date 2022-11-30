@@ -7,7 +7,7 @@ title = "XXX"
 ||
 |:-|
 |・[OUXT-Polaris](https://www.ouxt.jp/)が国際的な自律航行船ロボットコンテストの
-　Maritime RobotX 2022@オーストリアに参加し、
+　Maritime RobotX 2022@オーストラリアに参加し、
 　Fearless Award (MARITIME ROBOTX CHALLENGE 2022)を受賞しました.(2022年11月)|
 |・[東京大学松尾研究室](https://weblab.t.u-tokyo.ac.jp/)との業務(基礎研究・ロボットデモ)を開始しました.(2022年10月)|
 |・第３回とめ研究所若手研究者懸賞論文
