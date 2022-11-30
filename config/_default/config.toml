@@ -5,7 +5,7 @@ theme = "hugo-initio"
 
 [params]
     name = "Masato Kobayashi | 小林　聖人"
-    description = "Academic Researcher"
+    description = "Academic Researcher: Robotics, AI, Motion Control, Mechatronics"
     # email = ""
     # phone = ""
     # address = ""
@@ -13,21 +13,21 @@ theme = "hugo-initio"
     avatar = "images/avatar.jpg"
     avatarclass = "circle"
     background = ""
-    # banner = "images/bg_head.jpg"
+    banner = "images/b1.png"
     # favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
-    author = "Sergey Pozhilov (GetTemplate.com)"
+    DateForm = "Nov 29, 2022"
+    author = "Masato Kobayashi"
 
     showSubheader = true
     showServices = true
     showRecentWorks = true
-    showDownloads = true
-    showClients = true
+    showDownloads = false
+    showClients = false
 
-    showFooterContact = true
+    showFooterContact = false
     showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
 
 [[menu.main]]
     name = "home"
