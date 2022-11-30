@@ -1,6 +1,9 @@
+
 # 業績
 
 ## 受賞
+1. Fearless Award, MARITIME ROBOTX CHALLENGE 2022, <ins>OUXT-Polaris</ins> 2022年11月
+
 1. 最優秀賞 とめ研究所若手研究者懸賞論文, 株式会社とめ研究所, <ins>***小林 聖人***</ins> 2022年10月
 
 1. Excellent Presentation Award, IEEJ Industry Applications Society,
