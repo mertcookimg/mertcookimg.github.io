@@ -6,6 +6,8 @@ title = "XXX"
 # News
 ||
 |:-|
+|・Top-10 candidates of IEEE ies-ONCON 2022 Best PhD Thesis Awardに選出されました.(2022年12月)|
+|・電気学会研究会において4件の研究成果発表を行いました.(2022年12月)|
 |・[OUXT-Polaris](https://www.ouxt.jp/)が国際的な自律航行船ロボットコンテストの
 　Maritime RobotX 2022@オーストラリアに参加し、
 　Fearless Award (MARITIME ROBOTX CHALLENGE 2022)を受賞しました.(2022年11月)|
